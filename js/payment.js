@@ -18,8 +18,8 @@ function applyCoupons() {
             price.innerHTML = "Price: 19.99€";
             break;
         case "RECOMMENDED":
-            price.innerHTML = "Price 2000.20€"
-    
+            price.innerHTML = "Price 2000.20€";
+            break;
         default:
             price.innerHTML = "Price: 20.00€";
             break;
